@@ -1,7 +1,34 @@
 <resources>
-    <string name="app_name">About The Egyptian pound</string>
-    <string name="title_jetpack_compose_tutorial">The Egyptian pound (EGP)</string>
+
+
     <string name="compose_short_desc">The value of the Egyptian pound fluctuates relative to other currencies, and its exchange rate is determined by various factors including the country is economic performance, inflation rate, and global market trends.</string>
     <string name="compose_long_desc">Egypt has a cash-based economy, and while credit and debit cards are becoming more accepted in urban areas and tourist destinations, it is still advisable to carry cash for day-to-day transactions, especially in rural areas..</string>
     <string name="compose_Overall_desc">Overall, the Egyptian pound plays a crucial role in the country is economy, facilitating domestic and international trade as well as serving as a store of value for its citizens.</string>
+
+
+
+
+    <string name="app_name">ALEXANDRIA</string>
+    <string name="title_jetpack_compose_tutorial">ALEXANDRIA</string>
+
+    <string name="Corniche">Corniche</string>
+    <string name="Corniche_1">The Alexandria Corniche, nestled along the Mediterranean Sea, presents a serene retreat with its picturesque palm-lined pathways and breathtaking vistas.</string>
+    <string name="Corniche_2">This waterfront promenade exudes tranquility, with meticulously tended flower beds and traditional lampposts casting a gentle glow.</string>
+    <string name="Corniche_3">Amidst the peaceful ambiance, visitors can enjoy the inviting ambiance of quaint cafes and eateries, occasional street performances, and the soothing sound of the sea, creating an unforgettable experience.</string>
+
+    <string name="Montazah">Montazah</string>
+    <string name="Montazah_1">Montazah</string>
+    <string name="Montazah_2">Montazah</string>
+    <string name="Montazah_3">Montazah</string>
+
+    <string name="RasElTinPalace">Ras El-Tin Palace</string>
+    <string name="RasElTinPalace_1">Ras El-Tin Palace</string>
+    <string name="RasElTinPalace_2">Ras El-Tin Palace</string>
+    <string name="RasElTinPalace_3">Ras El-Tin Palace</string>
+
+    <string name="LibraryOfAlexandria">Library of Alexandria</string>
+    <string name="LibraryOfAlexandria_1">Library of Alexandria</string>
+    <string name="LibraryOfAlexandria_2">Library of Alexandria</string>
+    <string name="LibraryOfAlexandria_3">Library of Alexandria</string>
+
 </resources>
