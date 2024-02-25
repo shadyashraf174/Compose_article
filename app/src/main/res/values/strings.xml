@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">About The Egyptian pound</string>
+    <string name="title_jetpack_compose_tutorial">The Egyptian pound (EGP)</string>
+    <string name="compose_short_desc">The value of the Egyptian pound fluctuates relative to other currencies, and its exchange rate is determined by various factors including the country is economic performance, inflation rate, and global market trends.</string>
+    <string name="compose_long_desc">Egypt has a cash-based economy, and while credit and debit cards are becoming more accepted in urban areas and tourist destinations, it is still advisable to carry cash for day-to-day transactions, especially in rural areas..</string>
+    <string name="compose_Overall_desc">Overall, the Egyptian pound plays a crucial role in the country is economy, facilitating domestic and international trade as well as serving as a store of value for its citizens.</string>
+</resources>
